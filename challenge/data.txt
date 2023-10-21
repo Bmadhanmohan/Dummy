@@ -1,0 +1,1 @@
+Append the current date and time to the end of the data.txt file
